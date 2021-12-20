@@ -1,0 +1,4 @@
+data_analysis/access_networks/outputs/networks/edges*
+data_analysis/access_networks/outputs/networks/kepler_combined_net_edges.html
+data_analysis/access_networks/data
+*.DS_Store
